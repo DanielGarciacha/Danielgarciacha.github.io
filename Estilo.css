@@ -1,0 +1,45 @@
+.d1{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color:Navy;
+    background-color: beige;
+}
+
+.btn{
+    display:  inline-block;
+    background-color: wheat;
+    color: navy;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 90;
+    margin:   10px;
+    padding: 10px;
+
+}
+
+.d2{
+    font-family: 'time new roman';
+    font-size: 20px;
+    color:Navy;
+    background-color: beige;
+}
+.d3{
+    font-family: 'time new roman';
+    font-size: 20px;
+    color:Navy;
+    background-color: beige;
+}
+
+.d4{
+    font-family: 'time new roman';
+    font-size: 20px;
+    color:Navy;
+    background-color: beige;
+}
+
+.d5{
+    font-family: 'time new roman';
+    font-size: 20px;
+    color:gray;
+    background-color: beige;
+}
